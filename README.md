@@ -1,3 +1,3 @@
-# Do báscio ao avançado!
+# Do báscio ao avançado
 
-Exemplos de ruby do básico ao avançado, com vários exemplos.
+Vários exemplos de como usar o ruby, do básico ao avançado!
